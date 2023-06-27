@@ -273,6 +273,8 @@ Add-Type -AssemblyName System.Windows.Forms
 #Prompts------------------------------------------------
 #Kopieren in Word.--------------------------------------
 
+
+#-----=-=-=-schreibe-deine-gpt/3.5-=-=---um-gptbewebung-zu-Nutzen==
 #API Schlüssel
 $openaiKey = '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'
 
