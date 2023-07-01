@@ -2,6 +2,10 @@
 #Programm um Ordner zur suche eines MasterOrdners
 #------------------------------------------------
 
+
+#Vergiss nicht Um DIeses Programm Zu Nutzen Müssen wir Ein Bestehenden BewerbungsOrdner haben, dieser kann leer sein darf aber auch diplome beinhalten
+
+
 # MasterOrdner auswählen mit den Dateien drinnen
 $shell = New-Object -ComObject Shell.Application
 $folderpath = $null
